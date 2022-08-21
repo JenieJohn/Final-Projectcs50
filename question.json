@@ -1,0 +1,82 @@
+[
+    {
+        "question": "The sum assured under keyman insurance policy is generally linked to which of the following?",
+        "choice1": "Keyman income",
+        "choice2": "Business profitability",
+        "choice3": "Business history",
+        "choice4": "Inflation index",
+        "answer": 2
+    },
+    {
+        "question": "Mortgage redemption insurance (MRI) can be categorised under ________.",
+        "choice1": "Increasing term life assurance",
+        "choice2": "Decreasing term life assurance",
+        "choice3": "Variable life assurance",
+        "choice4": "Universal life assurance",
+        "answer": 2
+    },
+    {
+        "question": "Which of the below losses are covered under keyman insurance?",
+        "choice1": "Property theft",
+        "choice2": "Losses related to the extended period when a key person is unable to work",
+        "choice3": "General liability",
+        "choice4": "Losses caused due to errors and omission",
+        "answer": 2
+    },
+    {
+        "question": "What does inter-temporal allocation of resources refer to?",
+        "choice1": "Postponing allocation of resources until the time is right",
+        "choice2": "Allocation of resources over time",
+        "choice3": "Temporary allocation of resources",
+        "choice4": "Insured",
+        "answer": 2
+    },
+    {
+        "question": "Which among the following is a non-traditional life insurance product?",
+        "choice1": "Term assurance",
+        "choice2": "Universal life insurance",
+        "choice3": "Endowment insurance",
+        "choice4": "Whole life insurance",
+        "answer": 2
+    },
+    {
+        "question": "What does unbundling of life insurance products refers to?",
+        "choice1": "Correlation of life insurance products with bonds",
+        "choice2": "Correlation of life insurance products with equities",
+        "choice3": "Amalgamation of protection and savings element",
+        "choice4": "Separation of the protection and savings element",
+        "answer": 2
+    },
+    {
+        "question": "Which of the below policy can provide protection to home loan borrowers?",
+        "choice1": "Life Insurance",
+        "choice2": "Disability Insurance",
+        "choice3": "Mortgage Redemption Insurance",
+        "choice4": "General Insurance",
+        "answer": 3
+    },
+    {
+      "question": "Which among the following is the regulator for the insurance industry in India?",
+      "choice1": "Insurance Authority of India",
+      "choice2": "Insurance Regulatory and Development Authority",
+      "choice3": "     Life Insurance Corporation of India",
+      "choice4": "     General Insurance Corporation of India",
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is a secondary burden of risk?",
+      "choice1": "Goods damaged cost",
+      "choice2": "     Setting aside reserves as a provision for meeting potential losses in the future",
+      "choice3": "     Hospitalisation costs as a result of heart attack",
+      "choice4": "Business interuption cost",
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is a secondary burden of risk?",
+      "choice1": "Bank FD",
+      "choice2": "    Insurance",
+      "choice3": "     Equity shares",
+      "choice4": "Real estate",
+      "answer": 2
+    }
+]
